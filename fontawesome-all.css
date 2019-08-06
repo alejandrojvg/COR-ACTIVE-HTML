@@ -2699,7 +2699,7 @@ readers do not read off random characters that represent icons */
   font-style: normal;
   font-weight: normal;
   src: url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-brands-400.eot");
-  src: url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-brands-400.eot") format("embedded-opentype"), url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-brands-400.woff2") format("woff2"), url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-brands-400.woff") format("woff"), url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-brands-400.ttf") format("truetype"), url("https://github.com/alejandrojvg/COR-ACTIVE-HTML/blob/master/fa-regular-400.svg#fontawesome") format("svg"); }
+  src: url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-brands-400.eot") format("embedded-opentype"), url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-brands-400.woff2") format("woff2"), url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-brands-400.woff") format("woff"), url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-brands-400.ttf") format("truetype"), url("https://github.com/alejandrojvg/COR-ACTIVE-HTML/blob/master/fa-regular-400.svg") format("svg"); }
 
 .fab {
   font-family: 'Font Awesome 5 Brands'; }
@@ -2708,7 +2708,7 @@ readers do not read off random characters that represent icons */
   font-style: normal;
   font-weight: 400;
   src: url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-regular-400.eot");
-  src: url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-regular-400.eot?#iefix") format("embedded-opentype"), url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-regular-400.woff2") format("woff2"), url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-regular-400.woff") format("woff"), url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-regular-400.ttf") format("truetype"), url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-regular-400.svg#fontawesome") format("svg"); }
+  src: url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-regular-400.eot?#iefix") format("embedded-opentype"), url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-regular-400.woff2") format("woff2"), url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-regular-400.woff") format("woff"), url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-regular-400.ttf") format("truetype"), url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-regular-400.svg") format("svg"); }
 
 .far {
   font-family: 'Font Awesome 5 Free';
@@ -2718,7 +2718,7 @@ readers do not read off random characters that represent icons */
   font-style: normal;
   font-weight: 900;
   src: url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-solid-900.eot");
-  src: url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-solid-900.eot?#iefix") format("embedded-opentype"), url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-solid-900.woff2") format("woff2"), url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-solid-900.woff") format("woff"), url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-solid-900.ttf") format("truetype"), url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-solid-900.svg#fontawesome") format("svg"); }
+  src: url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-solid-900.eot?#iefix") format("embedded-opentype"), url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-solid-900.woff2") format("woff2"), url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-solid-900.woff") format("woff"), url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-solid-900.ttf") format("truetype"), url("https://rawcdn.githack.com/alejandrojvg/COR-ACTIVE-HTML/f519dac4ff4edf89f93998c82c9d70ca47bad7c2/fa-solid-900.svg") format("svg"); }
 
 .fa,
 .fas {
